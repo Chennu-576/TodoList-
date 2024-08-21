@@ -1,0 +1,24 @@
+                          TODO LIST APP
+Overview:
+
+The To-Do List application is a simple, user-friendly web app designed to help users manage their tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete. The application uses local storage to save tasks so that they persist across browser sessions. This ensures that users do not lose their tasks upon refreshing the page or closing the browser.
+
+Purpose:
+The purpose of this project is to provide a practical solution for task management that can be easily integrated into any professional workflow.
+
+Features:
+Add Tasks: Users can enter new tasks into an input field and add them to the list by clicking the "Add Task" button or pressing the "Enter" key.
+
+Edit Tasks: Users can modify existing tasks. This feature allows users to update task descriptions to reflect any changes.
+
+Delete Tasks: Users can remove tasks from the list. This feature ensures that completed or irrelevant tasks can be easily managed.
+
+Complete Tasks: Users can mark tasks as complete. Completed tasks are visually distinguished from pending tasks by striking through the text and changing the background color.
+
+Persistent Storage: The application uses local storage to save tasks. This means that tasks will persist even after refreshing the page or closing the browser, providing a seamless user experience.
+
+Technology Stack:
+HTML, CSS, FLEXBOX, JAVASCRIPT
+
+Conclusion:
+ To-Do List application is a practical and efficient tool designed to streamline task management for users. 
